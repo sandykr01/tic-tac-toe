@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Tic-Tac-Toe using Create React App
 
 This Game is available to play on:  [Tic-Tac-Toe](https://dphc7pu3bwrxy.cloudfront.net/).
 

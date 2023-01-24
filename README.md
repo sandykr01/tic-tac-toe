@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Game is available to play on:  [Tic-Tac-Toe](https://dphc7pu3bwrxy.cloudfront.net/).
 
 ## Available Scripts
 

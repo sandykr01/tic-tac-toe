@@ -127,13 +127,13 @@ export default class TTT extends React.Component{
             return;
         }
 
-        lastStateOfSquares[i] = this.state.stepNumber%2===0?'X':'O';
+        lastStateOfSquares[i] = (this.state.stepNumber%2===0)?'X':'O';
 
         oldHistory.push(lastStateOfSquares);
 
-        let gameStatus = getGameStatus(lastStateOfSquares)==='wins'?+lastStateOfSquares[i]+' wins': null;
+        let gameStatus = getGameStatus(lastStateOfSquares)==='wins'?(lastStateOfSquares[i])+' wins': null;
 
-        if(this.state.stepNumber===8 && gameStatus === null){
+        if(this.state.stepNumber===8 && gameStatus == null){
             gameStatus = 'Match Draw';
         }
 

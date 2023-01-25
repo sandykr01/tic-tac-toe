@@ -10,7 +10,7 @@ body {
 #root {
   height: 100vh;
   width: 100vw;
-  background-color: black;
+  background-color: teal;
   display: flex;
   flex-direction: row;
 }

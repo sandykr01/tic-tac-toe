@@ -1,5 +1,7 @@
 # Getting Started with Tic-Tac-Toe using Create React App
 
+(https://github.com/sandykr01/tic-tac-toe/actions/workflows/main.yml/badge.svg)
+
 This Game is available to play on:  [Tic-Tac-Toe](https://dphc7pu3bwrxy.cloudfront.net/).
 
 ## Available Scripts
